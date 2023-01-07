@@ -47,8 +47,7 @@
 
 # 🛠️ Achievements :
 <img alt="GIF" src="https://github-trophies.vercel.app/?username=bouslama-hamza&theme=onedark&no-frame=false&no-bg=false&margin-w=8" width="1200"/>
-
-</br></br>
+</br>
 
 # ✍️Random Dev Quote
 <div align="center">
