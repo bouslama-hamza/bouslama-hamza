@@ -24,7 +24,6 @@
 
 </p>
 </div>
-</br></br>
 
 # 💻 Tech Stack
 
