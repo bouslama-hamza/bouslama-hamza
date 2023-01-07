@@ -43,7 +43,6 @@
 <!-- add section for the most used technologie -->
 
 # 📊GitHub Stats :
-![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true")
 
 ![](https://github-readme-stats.vercel.app/api?username=bouslama-hamza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
