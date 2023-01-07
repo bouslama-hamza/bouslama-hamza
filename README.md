@@ -9,8 +9,6 @@
 </p>
 <br>
 
-# 👋 ABOUT ME
-
 [![facebook](https://img.shields.io/website?label=HamzaBouslama.com&style=for-the-badge&url=https%3A%2F%2FHamzaBouslama.com)](https://HamzaBouslama)
 [![Follow twitter](https://img.shields.io/twitter/follow/hamzabouslama4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hamzabouslama4)
 
