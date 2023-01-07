@@ -22,8 +22,6 @@
     - 🥅 2023 Goals: Be the best in everything
     - ⚡ Fun fact: I love to draw and play guitar / basketball
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bouslama-hamza&layout=compact&theme=radical)
-
 </p>
 </div>
 </br></br>
@@ -45,6 +43,8 @@
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=bouslama-hamza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bouslama-hamza&layout=compact&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bouslama-hamza&theme=dark&hide_border=false)<br><br>
 
