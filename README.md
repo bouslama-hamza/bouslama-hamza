@@ -44,8 +44,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=bouslama-hamza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bouslama-hamza&layout=compact&theme=radical)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bouslama-hamza&theme=dark&hide_border=false)<br><br>
 
 # 🛠️ Achievements :
