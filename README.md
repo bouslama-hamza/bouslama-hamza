@@ -2,7 +2,7 @@
 <img style="object-fit: cover;
             object-position: 25% 25%; 
             "
-     src="images/why-become-data-scientist.jpg" width="1200" height="300"><br>
+     src="images/1667143565438.jpeg">
 <!-- create a graph of visitor -->
 <p align="center">
   <img width="400" src="https://profile-counter.glitch.me/bouslama-hamza/count.svg" />
