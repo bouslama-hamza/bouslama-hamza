@@ -41,10 +41,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bouslama-hamza&theme=dark&hide_border=false)<br><br>
 
-# 🛠️ Achievements :
-<img alt="GIF" src="https://github-trophies.vercel.app/?username=bouslama-hamza&theme=onedark&no-frame=false&no-bg=false&margin-w=8" width="1200"/>
-</br>
-
 # ✍️Random Dev Quote
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
